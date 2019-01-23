@@ -1,12 +1,7 @@
 ---
 layout: page
 title: Site in construction, thanks for visiting
----
-Test text.
-
-This is a test image
-
-<img src = "/images/Perovskite.JPG" alt='Microscopy image'> 
+--- 
 
 <section id = "presentations">
 			<div class ="blue-divider"></div>
@@ -27,13 +22,13 @@ This is a test image
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img src="/images/Perovskite.jpg" alt= "MicroscopyImage">
+						<img src="/images/Perovskite.JPG" alt= "MicroscopyImage">
 						<div class="carousel-caption">
 						<h3>Microscopy</h3>
 						</div>
 					</div>		
 					<div class="carousel-item">
-						<img src="/images/2DP.png" alt= "MicroscopyImage">
+						<img src="/images/2DP.png" alt= "Fluorescence Microscopy Image">
 						<div class="carousel-caption">
 						<h3>Fluorescence Microscopy</h3>
 						</div>
