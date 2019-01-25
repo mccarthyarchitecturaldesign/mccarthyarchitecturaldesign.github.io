@@ -33,12 +33,12 @@ title: Site in construction, thanks for visiting
 						<h3>Fluorescence Microscopy</h3>
 						</div>
 					</div>
-					<!--<div class="carousel-item">
-						<img src="/images/TrackMovie.gif" alt= "TrackingMovie">
+					<div class="carousel-item">
+						<img src="/images/Proc&Vis.gif" alt= "TrackingMovie">
 						<div class="carousel-caption">
 							<h3>Data processing and data visualization</h3>
 						</div>
-					</div>-->
+					</div>
 				</div>
 				<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
 				<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
