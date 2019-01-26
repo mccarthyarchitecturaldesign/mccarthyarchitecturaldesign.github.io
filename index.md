@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Site in construction, thanks for visiting
+title: Home (Site in construction)
 --- 
 
 <section id = "presentations">
-			<div class ="blue-divider"></div>
 			<div class ="heading">
 			</div>
             <div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
