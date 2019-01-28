@@ -74,7 +74,9 @@ section .heading h2
 	color:#fff; 
 	min-height:40px;
 }
-
+.navbar-light .navbar-brand{
+	color:#fff;
+}
 .nav .navbar-nav
 {
 	display:inline-block;
@@ -102,12 +104,13 @@ section .heading h2
 {
 	color:#777 !important;
 	background: #fff !important;
-	border-radius: 0px !important;
+	border-radius: 2px !important;
+
 }
-.nav-tabs .nav-link.active
+.nav-tabs .nav-link .active
 {
-	border-radius: 0px;
-	color:#5e92e5 !important;
+	border-radius: 2px;
+	color:#777 !important;
 	background: #fff !important;
 }
 
@@ -115,7 +118,6 @@ section .heading h2
 {
 	color:#fff;
 }
-
 
 /* ABOUT */ 
 
@@ -469,7 +471,7 @@ section .heading h2
 }
 
 /* FOOTER */
-div .py-5 border-top .container
+div .py-5 .border-top .container
 {
 	background-color: #444 !important;
 	padding: 20px 0 40px
