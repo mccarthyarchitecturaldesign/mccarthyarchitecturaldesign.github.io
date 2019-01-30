@@ -80,48 +80,52 @@ title:
 				<ul class="timeline">
 					<li>
 						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-							<div class="timeline-panel-container">
-								<div class ="timeline-panel">
-									<div class="timeline-heading">
+						<div class="timeline-panel-container">
+							<div class ="timeline-panel">
+								<div class="timeline-heading">
 										<h3>Lund University - KULeuven</h3>
 										<h4>Joint PhD student</h4>
 										<p class="text-muted"><small class="fa fa-clock-o"></small> Sep 2016 - now</p>
-									</div>
-									<div class="timeline-body">
-										<ul>
-											<li>
-											<p>Single-molecule spectroscopy and imaging of polymer materials to understand structure-property relationship at the molecular scale</p>
-											<p>+ Materials: Conjugated Polymers, Dendronized polymers, two-dimensional polymer sheets.</p></li>
-											<li>
-											<p> Development of analysis tool for 3D imaging and 3D particle tracking.</p>
-											</li>
-										</ul>
-									</div>
 								</div>
-						 	</div>
+								<div class="timeline-body">
+									<ul>
+										<li>
+											<p>Single-molecule spectroscopy and imaging of polymer materials to understand structure-property relationship at the molecular scale</p>
+											<p>+ Materials: Conjugated Polymers, Dendronized polymers, two-dimensional polymer sheets.</p>
+										</li>
+										<li>
+											<p> Development of analysis tool for 3D imaging and 3D particle tracking.
+											</p>
+										</li>
+									</ul>
+								</div>
+							</div>
+						 </div>
 					</li>
 					<li>
 						<div class ="timeline-badge"><span class="fa fa-briefcase"></span></div>
-							<div class="timeline-panel-container-inverted">
-								<div class ="timeline-panel">
-									<div class="timeline-heading">
-										<h3> KULeuven</h3>
-										<h4>Graduate Researcher</h4>
-										<p class="text-muted"><small class="fa fa-clock-o"></small> Jul 2016 - Sep 2016</p>
-									</div>
-									<div class="timeline-body">
-										<ul>
-											<li>
+						<div class="timeline-panel-container-inverted">
+							<div class ="timeline-panel">
+								<div class="timeline-heading">
+									<h3> KULeuven</h3>
+									<h4>Graduate Researcher</h4>
+									<p class="text-muted"><small class="fa fa-clock-o"></small> Jul 2016 - Sep 2016</p>
+								</div>
+								<div class="timeline-body">
+									<ul>
+										<li>
 											<p>Optimization of Super-resolution Imaging condition for optical DNA mapping</p>
-											<p>+ Parameters: buffer, frame rate, laser power.</p></li>
-											<li>
+											<p>+ Parameters: buffer, frame rate, laser power.</p>
+										</li>
+										<li>
 											<p> Development of analysis tool for 3D imaging and 3D particle tracking.</p>
-											</li>
-										</ul>
-									</div>
+										</li>
+									</ul>
 								</div>
 							</div>
+						</div>
 					</li>
+				</ul>
 			</div>
 		</section>
 		<!--EDUCATION-->

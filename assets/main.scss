@@ -14,7 +14,9 @@ body
 	font-family: Raleway, Candara, sans-serif;
 	position:relative;
 }
-
+.container{
+	max-width: 900 px;
+}
 h1,h2,h3,h4,h5,h6
 {
 	font-weight: bold;
@@ -31,7 +33,7 @@ img
 }
 section
 {
-	/*padding: 45px 0 80px 0;*/
+	padding: 45px 0 80px 0;
 }
 section .heading
 {
@@ -85,6 +87,10 @@ section .heading h2
 
 }
 
+.navbar-nav .nav-link {
+	padding-right: 5px;
+	padding-left: 5px;
+}
 .navbar .navbar-collapse
 {
 	text-align:center;
@@ -117,6 +123,11 @@ section .heading h2
 .fa-bars
 {
 	color:#fff;
+}
+
+.navbar-light .navbar-toggler {
+	color:#fff !important;
+	border-color:#fff !important;
 }
 
 /* ABOUT */ 
