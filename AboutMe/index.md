@@ -5,12 +5,13 @@ title:
 <body data-spy="scroll" data-target="#myNavBar" data-offset="100">
 		<!--PROFILE PICTURE-->
 		<section id="about" class="container-fluid">
-			<div class="col-xs-8 col-md-5 profile-picture">
+			<div class="col-xs-6 col-md-12 profile-picture">
 				<img src="images/me.jpg" alt= "Boris" class="rounded-circle">
 				<div class="heading">
 					<h1> Boris Louis </h1>
-					<h3>MSc Chemistry,<br>
-					    PhD student Researcher,<br> Web Developer</h3>
+					<h3>MSc Chemistry | R&D |<br>
+					    PhD student at: <br> KU Leuven & Lund University | <br>  Light microscopy |
+					    <br> Image processing and Data analysis </h3>
 					<a href="docs/CV.pdf" class="button1"> Download CV </a>
 				</div>	
 			</div>
@@ -118,7 +119,7 @@ title:
 											<p>+ Parameters: buffer, frame rate, laser power.</p>
 										</li>
 										<li>
-											<p> Development of analysis tool for 3D imaging and 3D particle tracking.</p>
+											<p> Development of analysis tool for DNA mapping.</p>
 										</li>
 									</ul>
 								</div>
@@ -126,6 +127,36 @@ title:
 						</div>
 					</li>
 				</ul>
+			</div>
+		</section>
+		<!--Publications-->
+		<section id = "publications">
+			<div class ="blue-divider"></div>
+			<div class ="heading">
+				<h2>Publications</h2>
+			</div>
+			<div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
+				<ol class="carousel-indicators">
+					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+					<li data-target="#myCarousel" data-slide-to="1"></li>
+					<li data-target="#myCarousel" data-slide-to="2"></li>
+				</ol>
+				<div class="carousel-inner" role="listbox">
+					<div class="carousel-item active">
+						<h3>Light and oxygen induce chain scission of conjugated polymers in solution</h3>
+						<h4>B. Louis, S. Caubergh, P-O. Larsson, Y. Tian, I. Scheblykin, Phys.Chem.Chem.Phys,2017</h4>
+					</div>
+					<div class="carousel-item">
+						<h3>Light and oxygen induce chain scission of conjugated polymers in solution</h3>
+						<h4>B. Louis, S. Caubergh, P-O. Larsson, Y. Tian, I. Scheblykin, Phys.Chem.Chem.Phys,2017</h4>
+					</div>
+					<div class="carousel-item">
+						<h3>Light and oxygen induce chain scission of conjugated polymers in solution</h3>
+						<h4>B. Louis, S. Caubergh, P-O. Larsson, Y. Tian, I. Scheblykin, Phys.Chem.Chem.Phys,2017</h4>
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
+				<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
 			</div>
 		</section>
 		<!--EDUCATION-->
@@ -160,36 +191,6 @@ title:
 						</div>
 					</div>
 				</div>
-			</div>
-		</section>
-		<!--Publications-->
-		<section id = "publications">
-			<div class ="blue-divider"></div>
-			<div class ="heading">
-				<h2>Publications</h2>
-			</div>
-			<div id ="myCarousel" class="carousel slide text-center" data-ride="carousel">
-				<ol class="carousel-indicators">
-					<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-					<li data-target="#myCarousel" data-slide-to="1"></li>
-					<li data-target="#myCarousel" data-slide-to="2"></li>
-				</ol>
-				<div class="carousel-inner" role="listbox">
-					<div class="carousel-item active">
-						<h3>Light and oxygen induce chain scission of conjugated polymers in solution</h3>
-						<h4>B. Louis, S. Caubergh, P-O. Larsson, Y. Tian, I. Scheblykin, Phys.Chem.Chem.Phys,2017</h4>
-					</div>
-					<div class="carousel-item">
-						<h3>Light and oxygen induce chain scission of conjugated polymers in solution</h3>
-						<h4>B. Louis, S. Caubergh, P-O. Larsson, Y. Tian, I. Scheblykin, Phys.Chem.Chem.Phys,2017</h4>
-					</div>
-					<div class="carousel-item">
-						<h3>Light and oxygen induce chain scission of conjugated polymers in solution</h3>
-						<h4>B. Louis, S. Caubergh, P-O. Larsson, Y. Tian, I. Scheblykin, Phys.Chem.Chem.Phys,2017</h4>
-					</div>
-				</div>
-				<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
-				<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
 			</div>
 		</section>
 		<footer class="text-center">

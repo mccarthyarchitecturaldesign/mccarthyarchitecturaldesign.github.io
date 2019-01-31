@@ -33,7 +33,7 @@ img
 }
 section
 {
-	padding: 45px 0 80px 0;
+	padding: 40px 0 40px 0;
 }
 section .heading
 {
@@ -46,9 +46,9 @@ section .heading h2
 }
 .blue-divider
 {
-	width:200px;
+	width:400px;
 	height:1.5px;
-	background: #5e92e5;
+	background: #777;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 20px;
@@ -56,9 +56,9 @@ section .heading h2
 }
 .white-divider
 {
-	width:200px;
+	width:400px;
 	height:1.5px;
-	background: #fff;
+	background: #777;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 20px;
@@ -134,8 +134,8 @@ section .heading h2
 
 #about
 {
-	padding-top: 100px;
-	background:#5e92e5;
+	padding-top: 10px;
+	background:#fff;
 }
 .profile-picture
 {
@@ -145,19 +145,20 @@ section .heading h2
 }
 #about .heading h1
 {
-	color:#fff;
+	color:#444;
 	text-transform: uppercase;
 }
 #about .heading h3
 {
-	color: #000;
+	color: #999;
+	font-weight:normal;
 }
 .button1
 {
 	font-weight: bold;
 	text-transform: uppercase;
-	color:white;
-	border: 1px solid white;
+	color:#444;
+	border: 1px solid #999;
 	display:inline-block;
 	margin-top: 20px;
 	padding: 18px 50px;
@@ -166,8 +167,8 @@ section .heading h2
 }
 .button1:hover
 {
-	background:white;
-	color:#5e92e5;
+	background:#999;
+	color:#fff;
 	text-decoration: none;
 }
 
@@ -180,7 +181,7 @@ section .heading h2
 
 #skills .heading h2
 {
-	color:#5e92e5;
+	color:#444;
 }
 
 #skills .progress
@@ -192,7 +193,7 @@ section .heading h2
 
 #skills .progress-bar
 {
-	background:#5e92e5;
+	background:#777;
 }
 
 #skills .progress h5
@@ -205,13 +206,13 @@ section .heading h2
 
 #experience
 {
-	background: #5e92e5;
+	background: white;
 
 }
 
 #experience .heading h2
 {
-	color:#fff;
+	color:#444;
 	margin-bottom: 50px;
 }
 
@@ -228,8 +229,8 @@ section .heading h2
 	bottom:0;
 	position:absolute;
 	content: " ";
-	width: 4px;
-	background: #333;
+	width: 3px;
+	background: #444;
 	left: 50%;
 	margin-left: -2px
 }
@@ -256,7 +257,7 @@ section .heading h2
 
 .timeline li .timeline-badge
 {
-	color:#5e92e5;
+	color:#444;
 	width:50px;
 	line-height: 50px;
 	font-size: 20px;
@@ -326,8 +327,9 @@ section .heading h2
 
 .timeline-heading h4
 {
-	color:#5e92e5;
+	color:#444;
 	font-size:18px;
+	font-weight: normal;
 }
 .timeline-body ul
 {
@@ -345,9 +347,10 @@ section .heading h2
 
 #education .heading h2
 {
-	color:#5e92e5;
+	color:#444;
 	padding-bottom: 20px;
 }
+
 
 .education-block
 {
@@ -369,9 +372,14 @@ section .heading h2
 
 .education-block h5
 {
-	color: #888;
+	color: #777;
 	font-size: 15px;
 	margin:15px;
+}
+.education-block h4
+{
+	color: #777;
+	font-weight: normal;
 }
 
 .education-block .fa-graduation-cap
@@ -381,12 +389,13 @@ section .heading h2
 
 .education-block h3
 {
-	color:#5e92e5;
+	color:#444;
 }
 
 .education-block p
 {
 	font-weight: bold;
+	color: #444;
 
 }
 
@@ -437,19 +446,19 @@ section .heading h2
 
 #publications .heading h2
 {
-	color:#5e92e5;
+	color:#444
 }
 
 .carousel-control-prev, .carousel-control-next
 {
 	background-image: none;
-	color:#5e92e5;
+	color:#444;
 }
 
 .carousel-control-prev:hover, .carousel-control-next:hover
 {
 	background-image: none;
-	color:#5e92e5;
+	color:#444;
 }
 
 .carousel-indicators
@@ -470,14 +479,15 @@ section .heading h2
 
 #myCarousel .carousel-item
 {
-	/*padding:40px 30px */;
+	padding:40px 30px ;
 }
 
 #myCarousel .carousel-item h4
 {
-	color: #5e92e5;
+	color: #777;
 	font-style: italic;
 	font-size:20px;
+	font-weight: normal;
 
 }
 
@@ -493,7 +503,7 @@ footer .fa-arrow-up
 {
 	font-size: 25px;
 	margin:20px;
-	color:#5e92e5;
+	color:#444;
 	height: 30px;
 }
 
