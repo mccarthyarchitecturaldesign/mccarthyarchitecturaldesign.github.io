@@ -34,6 +34,6 @@ title: Home (Site in construction)
 	<img src="/images/Proc&Vis.gif" alt= "TrackingMovie">
 	</div>
 </div>
-<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left"></span></a>
-<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right"></span></a>
+<a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
+<a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
 </div>			
