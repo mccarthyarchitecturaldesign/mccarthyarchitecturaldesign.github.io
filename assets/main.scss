@@ -54,7 +54,16 @@ section .heading h2
 	margin-bottom: 20px;
 
 }
+.Sdivider
+{
+	width:200px;
+	height:1.5px;
+	background: #777;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 20px;
 
+}
 /* NAVBAR */
 
 .navbar
@@ -453,7 +462,7 @@ section .heading h2
 /* Projects */
 #projects
 {
-	background: #5e92e5;
+	background: white;
 }
 #projects .heading h2
 {

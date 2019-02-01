@@ -18,7 +18,7 @@ title:
 		</section>	
 		<!--COMPUTER SKILLS-->
 		<section id="skills">
-			<div class ="blue-divider"></div>
+			<div class ="divider"></div>
 			<div class="heading">
 				<h2>Computer skills</h2>
 			</div>
@@ -131,7 +131,7 @@ title:
 		</section>
 		<!--Publications-->
 		<section id = "publications">
-			<div class ="blue-divider"></div>
+			<div class ="divider"></div>
 			<div class ="heading">
 				<h2>Publications</h2>
 			</div>
@@ -162,7 +162,7 @@ title:
 		<!--EDUCATION-->
 		<section id ="education">
 			<div class="heading">
-				<div class="blue-divider">
+				<div class="divider">
 				</div>
 				<h2>Education</h2>
 			</div>
@@ -174,7 +174,7 @@ title:
 							<span class="fa fa-graduation-cap"></span>
 							<h3> Université de Liège</h3>
 							<h4>Master in Chemistry</h4>
-							<div class="blue-divider"></div>
+							<div class="Sdivider"></div>
 							<p> Specialization in Physical Chemistry</p>
 							<p>+Master thesis in Single-molecule detection group of Prof. Hofkens, KULeuven</p>
 							<p>+ One year Erasmus at Lund Univeristy, project of Research in Single-molecule spectroscopy group of Prof. Scheblykin</p>
@@ -186,7 +186,7 @@ title:
 							<span class="fa fa-graduation-cap"></span>
 							<h3> Athénées Royale Charles Rogier</h3>
 							<h4>High school Diploma</h4>
-							<div class="blue-divider"></div>
+							<div class="Sdivider"></div>
 							<p> Specialization in Sciences</p>
 						</div>
 					</div>
