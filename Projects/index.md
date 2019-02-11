@@ -3,23 +3,23 @@ layout: page
 title: Projects (Page in construction)
 --- 
 
-<section id = "Projects">
+<section id = "projects">
 	<div class = "container">
 		<div id = "imaging">
 			<div class="heading">
-					<h2> Polymer characterization </h2>
+					<h2>Polymer characterization</h2>
 					<h3>Three-dimensional imaging</h3>
 			</div>
 <div class="row">
 <div class="col-sm-4" >
 	<a class="thumbnail" id="proj1-1" href="#" target="_blank">
-	<img src="images/StructChar.gif" alt ="3D reptation" class ="img-thumbnail">
+	<img src="images/segmentation.gif" alt ="3D reptation" >
 	<h4 > Structural characterization</h4>
 	</a>
 </div>
 <div class="col-sm-4">
 	<a class="thumbnail" id="proj1-2"  href="#" target="_blank">
-	<img src="images/Reptation-01.png" alt ="Reptation" class ="img-thumbnail">
+	<img src="images/Reptation.gif" alt ="Reptation">
 	<h4> Reptation </h4>
 	</a>
 </div>
