@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home (Site in construction)
+title: Home
 --- 
 <div class ="heading">
 </div>
