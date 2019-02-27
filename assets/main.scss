@@ -26,10 +26,15 @@ h5
 {
 	font-size: 1.2em;
 }
+p
+{
+	text-align: justify;
+}
 img
 {
 	max-width: 100%;
 	height: auto;
+
 }
 section
 {
@@ -460,44 +465,25 @@ section .heading h2
 }
 
 /* Projects */
-#projects
+#project
 {
 	background: white;
 }
-#projects .heading h2
-{
-	color:#fff;
-	margin-bottom: 20px;
+
+#project  img {
+	margin: 20px;
+	float:left;
+	width: 50%;
+	height: auto;
+}
+#project h5 {
+	margin-top: 20px;
 }
 
-#projects .row h4
-{
-	color:#fff;
-	width:120px;
-	position: absolute;
-	top:15%;
-	left:50%;
-	transform: translate(-50%,-50%);
-	font-size: 14px;
-	text-align: center;
-
-
+#Setup img {
+	float: center;
+	width: 100%;
 }
-
-#projects .thumbnail img
-{
-	
-	filter:grayscale(100%);
-	-webkit-filter: grayscale(100%);
-}
-
-#projects .thumbnail img:hover
-{
-	filter:none;
-	-webkit-filter:none;
-}
-
-
 
 /* FOOTER */
 div .py-5 .border-top .container
