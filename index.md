@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Home
+layout: home
 --- 
 <div class ="heading">
 </div>
@@ -10,29 +9,31 @@ title: Home
 		<li data-target="#myCarousel" data-slide-to="1"></li>
 		<li data-target="#myCarousel" data-slide-to="2"></li>
 		<li data-target="#myCarousel" data-slide-to="3"></li>
+		<li data-target="#myCarousel" data-slide-to="4"></li>
+		<li data-target="#myCarousel" data-slide-to="5"></li>
+		<li data-target="#myCarousel" data-slide-to="6"></li>
 	</ol>
 	<div class="carousel-inner" role="listbox">
 		<div class="carousel-item active">
-			<img src="/images/Optics2.gif" alt= "Optics">
-			<div class="carousel-caption">
-				<h3>Optics</h3>
-			</div>
+			<img src="/images/IMG_0142.jpeg" alt= "IMG_0142">
 </div>
 <div class="carousel-item">
-	<img src="/images/Microscopy_1.gif" alt= "MicroscopyImage">
-	<div class="carousel-caption">
-	<h3>Microscopy</h3>
-	</div>
+	<img src="/images/IMG_0138.jpeg" alt= "IMG_0138">
 </div>		
 <div class="carousel-item">
-	<img src="/images/FluoMicroscopy.gif" alt= "Fluorescence Microscopy Image">
-	<div class="carousel-caption">
-	<h3>Fluorescence Microscopy</h3>
-	</div>
+	<img src="/images/IMG_0143.jpeg" alt= "IMG_0143">
 </div>
 <div class="carousel-item">
-	<img src="/images/Proc&Vis.gif" alt= "TrackingMovie">
-	</div>
+	<img src="/images/IMG_0144.jpeg" alt= "IMG_0144">
+</div>
+<div class="carousel-item">
+	<img src="/images/IMG_0145.jpeg" alt= "IMG_0145">
+</div>
+<div class="carousel-item">
+	<img src="/images/IMG_0147.jpeg" alt= "IMG_0147">
+</div>
+<div class="carousel-item">
+	<img src="/images/IMG_0148.jpeg" alt= "IMG_0148">
 </div>
 <a class="carousel-control-prev" href="#myCarousel" data-slide="prev" role="button"> <span class="fa fa-arrow-left" id = "home"></span></a>
 <a class="carousel-control-next " href="#myCarousel" data-slide="next" role="button"> <span class="fa fa-arrow-right" id = "home"></span></a>
