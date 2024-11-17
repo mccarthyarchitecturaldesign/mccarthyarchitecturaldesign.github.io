@@ -35,12 +35,12 @@ title:
 		<div class="container">
 		<blockquote class="blockquote">
 		<p class="mb-0">“Working with Emily was a breath of fresh air! She listened to all of our thoughts, priorities and requests before helping with the extension and remodel with some good advice. Responsive and keen to make sure we were completely happy before we were ready to go for planning. The 3D video walk through was so good and gave us ideas of things we could change. During the build, we needed a few amendments and nothing was too much trouble. We have a great space that does everything we hoped it would and more. Great service and great value, would definitely recommend!”
-		<footer class="blockquote-footer">Karen H.</footer>
+		<footer class="blockquote-footer text-right">Karen H.</footer>
 		</p>
 		</blockquote>
 		<blockquote class="blockquote">
 		<p class="mb-0">“Emily designed our extension. What really set her apart was ensuring that we got what we needed and wanted. It was a rather challenging project since the space was restricted, but she met all our requirements and wishes. She presented innovative solutions for our space. We had peace of mind, because she took care of all necessities for building regulations and liaised with the structural engineer and builders giving sound advice when needed. We wholeheartedly recommend her.”
-		<footer class="blockquote-footer">Anita F.</footer>
+		<footer class="blockquote-footer text-right">Anita F.</footer>
 		</p>
 		</blockquote>
 		</div>
